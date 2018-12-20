@@ -1,0 +1,41 @@
+
+body{
+	background: #b4b4b4;
+}
+#box{
+	margin: auto;
+	border-radius: 25px;
+	border: 1px solid black;
+	background: white;
+	width: 300px;
+	height: 450px;
+}
+h2{
+	background-color: black;
+	text-align: center;
+	color: white;
+	margin: 0;
+	border-top-left-radius: 25px;
+	border-top-right-radius: 25px;
+}
+#inner{
+	margin: 20px;
+	line-height: 1.8;
+}
+#button{
+	background-color: red;
+	border: none;
+	color: white;
+	padding: 10px 20px;
+	text-align: center;
+	font-sixe: 20px;
+	margin: auto;
+	display: block;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+#para{
+	text-align: center;
+	font-size: 18px;
+}
